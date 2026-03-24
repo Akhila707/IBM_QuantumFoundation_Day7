@@ -224,9 +224,7 @@ Day 05  ──  ✅  QAOA · MaxCut · optimal partition found
 Day 06  ──  ✅  Quantum Error Mitigation · noise models · ZNE
 Day 07  ──  ✅  All 5 experiments on real IBM hardware · ibm_torino
 Day 08  ──  ⬡   QML · QSVM · ZZFeatureMap · Iris dataset
-·
-·
-Day 20  ──  ·   Final push · 50+ applications · LinkedIn article
+
 ```
 
 ---
